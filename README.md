@@ -1,0 +1,2 @@
+# first.practice
+learning js 
