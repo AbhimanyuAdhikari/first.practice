@@ -6,4 +6,6 @@ subject = "Maths"
 /*
     const for constants
     let for variables
-    and other two are also for variabes but not used and must not be used */
+    and other two are also for variabes but not used and must not be used 
+    var le chai functional ra block scope ma affect garxa
+*/
